@@ -218,6 +218,8 @@ plugins:
     options:
       links:
         GitHub: https://github.com/igor-kan/life-expectancy
+        Project Code: https://github.com/igor-kan/stac67-life-expectancy
+        Zotero: https://www.zotero.org/groups/6778484/life-expectancy
     layout:
       position: footer
       priority: 50
